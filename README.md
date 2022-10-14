@@ -1,5 +1,5 @@
 # Tez
-A tesselation puzzle game inspired by the classic 90's handheld game [Lights Out](https://en.wikipedia.org/wiki/Lights_Out_(game)). It is available on the Android Play store.
+A tesselation puzzle game inspired by the classic 90's handheld game [Lights Out](https://en.wikipedia.org/wiki/Lights_Out_(game)). It is available on the [Android Play store](https://play.google.com/store/apps/details?id=com.SomeRobot.Tez).
 
 ![Main screen](/Assets/img1.png)  
 ![Game screen](/Assets/img2.png)
